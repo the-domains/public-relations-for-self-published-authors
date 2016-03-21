@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Find the tools you need to market yourself and manage your brand as an author]]></title>
         <description><![CDATA[Find the tools you need to market yourself and manage your brand as an author]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/public-relations-for-self-published-authors/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 21:22:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Mar 2016 21:26:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/public-relations-for-self-published-authors/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Why Self-Publish?]]></title>
-            <description><![CDATA[<article><h1>Why Self-Publish?</h1><p>The self publishing revolution has begun.  If you have a great idea for a book, you no longer need the approval of traditional gatekeepers.  You can edit and publish your own work.</p></article>]]></description>
-            <link>undefinedwhy-self-publish/index.html</link>
+            <title><![CDATA[The self publishing revolution has begun.  If you have a great idea for a book, you no longer need the approval of traditional gatekeepers.  You can edit and publish your own work.]]></title>
+            <description><![CDATA[<article><h1>The self publishing revolution has begun.  If you have a great idea for a book, you no longer need the approval of traditional gatekeepers.  You can edit and publish your own work.</h1><p>The publishing companies know that the game has changed, and THEY ARE TERRIFIED.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/66bce799-978a-47a3-af1b-e7571466b153.jpg"></article>]]></description>
+            <link>https://thegrid.ai/public-relations-for-self-published-authors/why-self-publish/index.html</link>
             <guid isPermaLink="false">9d694e7b-3bd4-425e-ba0c-78e567d08210</guid>
-            <pubDate>Mon, 21 Mar 2016 21:22:19 GMT</pubDate>
+            <pubDate>Mon, 21 Mar 2016 21:24:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
