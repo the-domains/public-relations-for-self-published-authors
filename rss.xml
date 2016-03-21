@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Find the tools you need to market yourself and manage your brand as an author]]></title>
+        <description><![CDATA[Find the tools you need to market yourself and manage your brand as an author]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 21 Mar 2016 21:22:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why Self-Publish?]]></title>
+            <description><![CDATA[<article><h1>Why Self-Publish?</h1><p>The self publishing revolution has begun.  If you have a great idea for a book, you no longer need the approval of traditional gatekeepers.  You can edit and publish your own work.</p></article>]]></description>
+            <link>undefinedwhy-self-publish/index.html</link>
+            <guid isPermaLink="false">9d694e7b-3bd4-425e-ba0c-78e567d08210</guid>
+            <pubDate>Mon, 21 Mar 2016 21:22:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
