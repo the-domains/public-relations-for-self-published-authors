@@ -1,7 +1,7 @@
 name: Public Relations for Self Published Authors
 favicon: null
-layout_spectrum: 0.29838997847400606
-typography_spectrum: 0.64648
+layout_spectrum: 0.60853
+typography_spectrum: 0.38745
 title: Find the tools you need to market yourself and manage your brand as an author
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.8269834527745843
-  lightness: 0.7286451775580645
-  saturation: 0.5651564518921077
-  rhythmicContrast: 0.9456472913734615
+  brandStrength: 0.3125
+  lightness: 0.9375
+  saturation: 0.3125
+  rhythmicContrast: 0.5
 purpose: []
